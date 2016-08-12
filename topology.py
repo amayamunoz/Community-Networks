@@ -7,17 +7,16 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 r = PG.Request()
-G = nx.Graph(nx.drawing.nx_pydot.read_dot("newfile.dot"))
-
-links = []
-edgeno = 0
-linkCounter = 0
+G = nx.Graph(nx.drawing.nx_pydot.read_dot("topology.dot.plain")) #newfile.dot
+partition = community.best_partition(G)
+max(partition.values()) + 1
+nodebunch = [node for node in G.nodes() if partition[node]==3]
+H = G.subgraph(nodebunch)
 
 nodeno = 0
-ifaceCounter = 0
 vms = []
-for node in G.nodes():
-	if G.degree(node) > 10:
+for node in H.nodes():
+	if H.degree(node) > 10:
 		#will name supernode-x if it has over 10 links attached to it
 		igvm = IGX.XenVM("supernode-%d" % nodeno)
 	else:
@@ -25,12 +24,9 @@ for node in G.nodes():
 	vms.insert(nodeno, igvm)
 	nodeno += 1
 
-for edge in G.edges():
-    links.insert(edgeno, PG.LAN('lan%d' % linkCounter))
+links = []
+edgeno = 0
+for edge in H.edges():
+    links.insert(edgeno, PG.LAN('lan%d' % edgeno))
     links[edgeno].bandwidth = 10000
-    edgeno +=1
-    linkCounter +=1
-
-print edgeno
-print linkCounter
-print nodeno
+    edgeno += 1
