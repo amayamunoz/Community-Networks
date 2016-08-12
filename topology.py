@@ -7,21 +7,21 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 r = PG.Request()
-G = nx.Graph(nx.drawing.nx_pydot.read_dot("topology.dot.plain")) #newfile.dot
+G = nx.Graph(nx.drawing.nx_pydot.read_dot("newfile.dot")) #newfile.dot
 partition = community.best_partition(G)
 max(partition.values()) + 1
 nodebunch = [node for node in G.nodes() if partition[node]==3]
 H = G.subgraph(nodebunch)
 
 nodeno = 0
-vms = []
+vms = {}
 for node in H.nodes():
 	if H.degree(node) > 10:
 		#will name supernode-x if it has over 10 links attached to it
 		igvm = IGX.XenVM("supernode-%d" % nodeno)
 	else:
 		igvm = IGX.XenVM("node-%d" % nodeno)
-	vms.insert(nodeno, igvm)
+	vms[nodeno] = igvm
 	nodeno += 1
 
 links = []
