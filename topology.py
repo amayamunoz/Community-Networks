@@ -7,15 +7,11 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 r = PG.Request()
-G = nx.Graph(nx.drawing.nx_pydot.read_dot("topology.dot.plain")) #newfile.dot
+G = nx.Graph(nx.drawing.nx_pydot.read_dot("newfile.dot"))
 
 links = []
 edgeno = 0
-
-for edge in G.edges():
-    links.insert(edgeno, PG.LAN('lan%d' % edgeno))
-    links[edgeno].bandwidth = 10000
-    edgeno += 1
+linkCounter = 0
 
 nodeno = 0
 ifaceCounter = 0
@@ -28,3 +24,13 @@ for node in G.nodes():
 		igvm = IGX.XenVM("node-%d" % nodeno)
 	vms.insert(nodeno, igvm)
 	nodeno += 1
+
+for edge in G.edges():
+    links.insert(edgeno, PG.LAN('lan%d' % linkCounter))
+    links[edgeno].bandwidth = 10000
+    edgeno +=1
+    linkCounter +=1
+
+print edgeno
+print linkCounter
+print nodeno
