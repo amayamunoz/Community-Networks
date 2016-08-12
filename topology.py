@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 r = PG.Request()
-G = nx.Graph(nx.drawing.nx_pydot.read_dot("newfile.dot")) #newfile.dot
+G = nx.Graph(nx.drawing.nx_pydot.read_dot("topology.dot.plain")) #newfile.dot
 partition = community.best_partition(G)
 max(partition.values()) + 1
 nodebunch = [node for node in G.nodes() if partition[node]==3]
@@ -21,10 +21,11 @@ for node in H.nodes():
 	else:
 		igvm = IGX.XenVM("node-%s" % node)
 	vms[node] = igvm
-
+	
+cl = list(nx.find_cliques(H))
 links = []
 edgeno = 0
-for edge in H.edges():
+for clique in cl:
     links.insert(edgeno, PG.LAN('lan%d' % edgeno))
     links[edgeno].bandwidth = 10000
     edgeno += 1
