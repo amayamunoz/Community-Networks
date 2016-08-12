@@ -13,16 +13,14 @@ max(partition.values()) + 1
 nodebunch = [node for node in G.nodes() if partition[node]==3]
 H = G.subgraph(nodebunch)
 
-nodeno = 0
 vms = {}
 for node in H.nodes():
 	if H.degree(node) > 10:
 		#will name supernode-x if it has over 10 links attached to it
-		igvm = IGX.XenVM("supernode-%d" % nodeno)
+		igvm = IGX.XenVM("supernode-%s" % node)
 	else:
-		igvm = IGX.XenVM("node-%d" % nodeno)
-	vms[nodeno] = igvm
-	nodeno += 1
+		igvm = IGX.XenVM("node-%s" % node)
+	vms[node] = igvm
 
 links = []
 edgeno = 0
