@@ -10,17 +10,20 @@ r = PG.Request()
 G = nx.Graph(nx.drawing.nx_pydot.read_dot("topology.dot.plain")) #newfile.dot
 partition = community.best_partition(G)
 max(partition.values()) + 1
-nodebunch = [node for node in G.nodes() if partition[node]==3]
+
+subgraphno = 3
+nodebunch = [node for node in G.nodes() if partition[node]==subgraphno]
 H = G.subgraph(nodebunch)
 
 vms = {}
 for node in H.nodes():
 	if H.degree(node) > 10:
 		#will name supernode-x if it has over 10 links attached to it
-		igvm = IGX.XenVM("supernode-%s" % node)
+		igvm = IGX.XenVM("supernode-%s" % node.replace(".", "-").replace("/", "-"))
 	else:
-		igvm = IGX.XenVM("node-%s" % node)
+		igvm = IGX.XenVM("node-%s" % node.replace(".", "-").replace("/", "-"))
 	vms[node] = igvm
+        r.addResource(igvm)
 	
 cl = list(nx.find_cliques(H))
 links = []
@@ -30,7 +33,11 @@ for clique in cl:
     links[edgeno].bandwidth = 10000
     nodeno = 0
     for x in clique:
-    	iface = igvm.addInterface("if%s" % str(edgeno) + "-" + str(nodeno)) #duplicate interface names error
+    	iface = vms[x].addInterface("if%s" % str(edgeno) + "-" + str(nodeno)) #duplicate interface names error
     	links[edgeno].addInterface(iface)
         nodeno += 1
+    r.addResource(links[edgeno])
     edgeno += 1
+
+r.writeXML("subgraph-%s.xml" % subgraphno)
+
