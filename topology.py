@@ -7,6 +7,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 r = PG.Request()
+setupcmd='wget -qO- https://git.io/v6m6o | bash /dev/stdin'
+
 G = nx.Graph(nx.drawing.nx_pydot.read_dot("topology.dot.plain")) #newfile.dot
 partition = community.best_partition(G)
 max(partition.values()) + 1
@@ -22,6 +24,7 @@ for node in H.nodes():
 		igvm = IGX.XenVM("supernode-%s" % node.replace(".", "-").replace("/", "-"))
 	else:
 		igvm = IGX.XenVM("node-%s" % node.replace(".", "-").replace("/", "-"))
+	igvm.addService(PG.Execute(shell="/bin/bash", command=setupcmd))
 	vms[node] = igvm
         r.addResource(igvm)
 	
@@ -40,4 +43,3 @@ for clique in cl:
     edgeno += 1
 
 r.writeXML("subgraph-%s.xml" % subgraphno)
-
