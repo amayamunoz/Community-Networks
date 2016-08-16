@@ -28,7 +28,9 @@ edgeno = 0
 for clique in cl:
     links.insert(edgeno, PG.LAN('lan%d' % edgeno))
     links[edgeno].bandwidth = 10000
+    nodeno = 0
     for x in clique:
-    	iface = igvm.addInterface("if%s" % x) #duplicate interface names error
+    	iface = igvm.addInterface("if%s" % str(edgeno) + "-" + str(nodeno)) #duplicate interface names error
     	links[edgeno].addInterface(iface)
+        nodeno += 1
     edgeno += 1
