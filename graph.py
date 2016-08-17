@@ -16,11 +16,11 @@ for com in set(partition.values()) :
 
 
 nx.draw_networkx_edges(G,pos, alpha=0.5, width=0.5)
-plt.savefig("Color-Graph.png", format="PNG")
+plt.savefig("Color-Graph.svg", format="SVG")
 
 plt.clf()
 
 nodebunch = [node for node in G.nodes() if partition[node]==3]
 H = G.subgraph(nodebunch)
-nx.draw_spring(H, node_size = 30, node_color = colors[4])
-plt.savefig("subgraph-3.png", format="PNG")
+nx.draw_spring(H, node_size = 60, node_color = colors[3])
+plt.savefig("subgraph-3.svg", format="SVG")
