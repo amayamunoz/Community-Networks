@@ -4,3 +4,4 @@ Availability of computers and Internet has increased greatly since the world wid
 
 ![Internet Use by Income](/internet-use-by-income.pdf)
 
+This image shows the computer and Internet usage of households in the United States, split into different income brackets.
