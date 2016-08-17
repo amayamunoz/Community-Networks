@@ -5,9 +5,20 @@ import community
 import networkx as nx
 import matplotlib.pyplot as plt
 import seaborn as sns
+import random
 
 r = PG.Request()
 setupcmd='wget -qO- https://git.io/v6m6o | bash /dev/stdin'
+
+rttfile = open("rttlist.dat", 'r')
+rttfile.readline() # skip a line
+latency = [float(line.rstrip('\n')) for line in rttfile]
+jitterfile = open("jitterlist.dat", 'r')
+jitterfile.readline() # skip a line
+jitter = [float(line.rstrip('\n')) for line in jitterfile]
+ratefile = open("ratelist.dat", 'r')
+ratefile.readline() # skip a line
+rate = [float(line.rstrip('\n')) for line in ratefile]
 
 G = nx.Graph(nx.drawing.nx_pydot.read_dot("topology.dot.plain")) #newfile.dot
 partition = community.best_partition(G)
