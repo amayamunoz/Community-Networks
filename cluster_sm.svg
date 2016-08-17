@@ -1,0 +1,2430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="204.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-104.000000 -119.000000 204.000000 200.000000" height="200.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -47.808704,-3.380936"
+              class="lan.spektral.mkl eth0.nodedb.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -13.153833,-10.943025"
+              class="lan.spektral.mkl lan.0425.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -45.325039,17.038239"
+              class="lan.spektral.mkl wifi.graba68.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L 11.148701,-44.796646"
+              class="lan.spektral.mkl mesh.rb.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -0.872047,-19.586048"
+              class="lan.spektral.mkl wifi.router1.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -42.956463,-33.562126"
+              class="lan.spektral.mkl ffbr.mur.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -57.912796,-19.191015"
+              class="lan.spektral.mkl wifi.sch24.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L 0.421837,-3.970233"
+              class="lan.spektral.mkl wifi.router2.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -14.907776,-24.997213"
+              class="lan.spektral.mkl wifi.router3.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -27.305019,33.201672"
+              class="lan.spektral.mkl lan.5bone.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L 11.561994,-27.428003"
+              class="lan.spektral.mkl lan.0325.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -2.533039,-77.553268"
+              class="lan.spektral.mkl wifi.rhsender.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -42.919697,-17.119257"
+              class="lan.spektral.mkl ff.r2ko.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -17.083172,21.649641"
+              class="lan.spektral.mkl lan.combinesch.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L 14.462274,23.019966"
+              class="lan.spektral.mkl wifi.gitter.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -18.414736,-62.831470"
+              class="lan.spektral.mkl eth0.confine.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -59.964031,-35.931805"
+              class="lan.spektral.mkl wifi.router1.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L 26.852465,-35.657318"
+              class="lan.spektral.mkl wifi.0322.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L 4.955121,-58.935738"
+              class="lan.spektral.mkl wifi.0342.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -48.270824,-51.683266"
+              class="lan.spektral.mkl wifi.0346.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L 55.597378,-45.103088"
+              class="lan.spektral.mkl intern-mur" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -16.583109,2.973500"
+              class="lan.spektral.mkl wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -9.037386,-48.206005"
+              class="lan.spektral.mkl wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -28.007523,-10.071893"
+              class="lan.spektral.mkl dvb" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -2.005313,-35.426056"
+              class="lan.spektral.mkl wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L 16.500677,2.153553"
+              class="lan.spektral.mkl wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -32.194557,-58.490456"
+              class="lan.spektral.mkl eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L 13.601819,-13.625158"
+              class="lan.spektral.mkl wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -19.153713,-38.807034"
+              class="lan.spektral.mkl tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -32.572655,-44.712479"
+              class="lan.spektral.mkl eth0.nodedb-staging.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -29.002892,-25.498560"
+              class="lan.spektral.mkl lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -2.122819,9.965090"
+              class="lan.spektral.mkl eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 35.528072,-11.135624 L -32.804699,4.503531"
+              class="lan.spektral.mkl eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -13.153833,-10.943025"
+              class="eth0.nodedb.tub lan.0425.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -45.325039,17.038239"
+              class="eth0.nodedb.tub wifi.graba68.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L 11.148701,-44.796646"
+              class="eth0.nodedb.tub mesh.rb.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -0.872047,-19.586048"
+              class="eth0.nodedb.tub wifi.router1.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -42.956463,-33.562126"
+              class="eth0.nodedb.tub ffbr.mur.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -57.912796,-19.191015"
+              class="eth0.nodedb.tub wifi.sch24.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L 0.421837,-3.970233"
+              class="eth0.nodedb.tub wifi.router2.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -14.907776,-24.997213"
+              class="eth0.nodedb.tub wifi.router3.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -27.305019,33.201672"
+              class="eth0.nodedb.tub lan.5bone.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L 11.561994,-27.428003"
+              class="eth0.nodedb.tub lan.0325.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -2.533039,-77.553268"
+              class="eth0.nodedb.tub wifi.rhsender.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -42.919697,-17.119257"
+              class="eth0.nodedb.tub ff.r2ko.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -17.083172,21.649641"
+              class="eth0.nodedb.tub lan.combinesch.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L 14.462274,23.019966"
+              class="eth0.nodedb.tub wifi.gitter.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -18.414736,-62.831470"
+              class="eth0.nodedb.tub eth0.confine.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -59.964031,-35.931805"
+              class="eth0.nodedb.tub wifi.router1.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L 26.852465,-35.657318"
+              class="eth0.nodedb.tub wifi.0322.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L 4.955121,-58.935738"
+              class="eth0.nodedb.tub wifi.0342.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -48.270824,-51.683266"
+              class="eth0.nodedb.tub wifi.0346.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L 55.597378,-45.103088"
+              class="eth0.nodedb.tub intern-mur" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -16.583109,2.973500"
+              class="eth0.nodedb.tub wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -9.037386,-48.206005"
+              class="eth0.nodedb.tub wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -28.007523,-10.071893"
+              class="eth0.nodedb.tub dvb" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -2.005313,-35.426056"
+              class="eth0.nodedb.tub wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L 16.500677,2.153553"
+              class="eth0.nodedb.tub wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -32.194557,-58.490456"
+              class="eth0.nodedb.tub eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L 13.601819,-13.625158"
+              class="eth0.nodedb.tub wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -19.153713,-38.807034"
+              class="eth0.nodedb.tub tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -32.572655,-44.712479"
+              class="eth0.nodedb.tub eth0.nodedb-staging.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -29.002892,-25.498560"
+              class="eth0.nodedb.tub lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -2.122819,9.965090"
+              class="eth0.nodedb.tub eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -32.804699,4.503531"
+              class="eth0.nodedb.tub eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -45.325039,17.038239"
+              class="lan.0425.mkl wifi.graba68.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L 11.148701,-44.796646"
+              class="lan.0425.mkl mesh.rb.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -0.872047,-19.586048"
+              class="lan.0425.mkl wifi.router1.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -42.956463,-33.562126"
+              class="lan.0425.mkl ffbr.mur.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -57.912796,-19.191015"
+              class="lan.0425.mkl wifi.sch24.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L 0.421837,-3.970233"
+              class="lan.0425.mkl wifi.router2.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -14.907776,-24.997213"
+              class="lan.0425.mkl wifi.router3.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -27.305019,33.201672"
+              class="lan.0425.mkl lan.5bone.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L 11.561994,-27.428003"
+              class="lan.0425.mkl lan.0325.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -2.533039,-77.553268"
+              class="lan.0425.mkl wifi.rhsender.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -42.919697,-17.119257"
+              class="lan.0425.mkl ff.r2ko.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -17.083172,21.649641"
+              class="lan.0425.mkl lan.combinesch.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L 14.462274,23.019966"
+              class="lan.0425.mkl wifi.gitter.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -18.414736,-62.831470"
+              class="lan.0425.mkl eth0.confine.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -59.964031,-35.931805"
+              class="lan.0425.mkl wifi.router1.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L 26.852465,-35.657318"
+              class="lan.0425.mkl wifi.0322.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L 4.955121,-58.935738"
+              class="lan.0425.mkl wifi.0342.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -48.270824,-51.683266"
+              class="lan.0425.mkl wifi.0346.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L 55.597378,-45.103088"
+              class="lan.0425.mkl intern-mur" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -16.583109,2.973500"
+              class="lan.0425.mkl wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -9.037386,-48.206005"
+              class="lan.0425.mkl wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -28.007523,-10.071893"
+              class="lan.0425.mkl dvb" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -2.005313,-35.426056"
+              class="lan.0425.mkl wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L 16.500677,2.153553"
+              class="lan.0425.mkl wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -32.194557,-58.490456"
+              class="lan.0425.mkl eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L 13.601819,-13.625158"
+              class="lan.0425.mkl wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -19.153713,-38.807034"
+              class="lan.0425.mkl tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -32.572655,-44.712479"
+              class="lan.0425.mkl eth0.nodedb-staging.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -29.002892,-25.498560"
+              class="lan.0425.mkl lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -2.122819,9.965090"
+              class="lan.0425.mkl eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -13.153833,-10.943025 L -32.804699,4.503531"
+              class="lan.0425.mkl eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L 11.148701,-44.796646"
+              class="wifi.graba68.tub mesh.rb.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L -0.872047,-19.586048"
+              class="wifi.graba68.tub wifi.router1.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L -42.956463,-33.562126"
+              class="wifi.graba68.tub ffbr.mur.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L -57.912796,-19.191015"
+              class="wifi.graba68.tub wifi.sch24.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L 0.421837,-3.970233"
+              class="wifi.graba68.tub wifi.router2.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L -14.907776,-24.997213"
+              class="wifi.graba68.tub wifi.router3.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L -27.305019,33.201672"
+              class="wifi.graba68.tub lan.5bone.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L 11.561994,-27.428003"
+              class="wifi.graba68.tub lan.0325.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L -2.533039,-77.553268"
+              class="wifi.graba68.tub wifi.rhsender.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L -42.919697,-17.119257"
+              class="wifi.graba68.tub ff.r2ko.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L -17.083172,21.649641"
+              class="wifi.graba68.tub lan.combinesch.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L 14.462274,23.019966"
+              class="wifi.graba68.tub wifi.gitter.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L -18.414736,-62.831470"
+              class="wifi.graba68.tub eth0.confine.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L -59.964031,-35.931805"
+              class="wifi.graba68.tub wifi.router1.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L 26.852465,-35.657318"
+              class="wifi.graba68.tub wifi.0322.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L 4.955121,-58.935738"
+              class="wifi.graba68.tub wifi.0342.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L -48.270824,-51.683266"
+              class="wifi.graba68.tub wifi.0346.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L 55.597378,-45.103088"
+              class="wifi.graba68.tub intern-mur" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L -16.583109,2.973500"
+              class="wifi.graba68.tub wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L -9.037386,-48.206005"
+              class="wifi.graba68.tub wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L -28.007523,-10.071893"
+              class="wifi.graba68.tub dvb" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L -2.005313,-35.426056"
+              class="wifi.graba68.tub wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L 16.500677,2.153553"
+              class="wifi.graba68.tub wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L -32.194557,-58.490456"
+              class="wifi.graba68.tub eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L 13.601819,-13.625158"
+              class="wifi.graba68.tub wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L -19.153713,-38.807034"
+              class="wifi.graba68.tub tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L -32.572655,-44.712479"
+              class="wifi.graba68.tub eth0.nodedb-staging.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L -29.002892,-25.498560"
+              class="wifi.graba68.tub lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L -2.122819,9.965090"
+              class="wifi.graba68.tub eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -45.325039,17.038239 L -32.804699,4.503531"
+              class="wifi.graba68.tub eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L -0.872047,-19.586048"
+              class="mesh.rb.tub wifi.router1.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L -42.956463,-33.562126"
+              class="mesh.rb.tub ffbr.mur.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L -57.912796,-19.191015"
+              class="mesh.rb.tub wifi.sch24.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L 0.421837,-3.970233"
+              class="mesh.rb.tub wifi.router2.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L -14.907776,-24.997213"
+              class="mesh.rb.tub wifi.router3.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L -27.305019,33.201672"
+              class="mesh.rb.tub lan.5bone.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L 11.561994,-27.428003"
+              class="mesh.rb.tub lan.0325.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L -2.533039,-77.553268"
+              class="mesh.rb.tub wifi.rhsender.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L -42.919697,-17.119257"
+              class="mesh.rb.tub ff.r2ko.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L -17.083172,21.649641"
+              class="mesh.rb.tub lan.combinesch.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L 14.462274,23.019966"
+              class="mesh.rb.tub wifi.gitter.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L -18.414736,-62.831470"
+              class="mesh.rb.tub eth0.confine.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L -59.964031,-35.931805"
+              class="mesh.rb.tub wifi.router1.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L 26.852465,-35.657318"
+              class="mesh.rb.tub wifi.0322.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L 4.955121,-58.935738"
+              class="mesh.rb.tub wifi.0342.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L -48.270824,-51.683266"
+              class="mesh.rb.tub wifi.0346.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L 55.597378,-45.103088"
+              class="mesh.rb.tub intern-mur" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L -16.583109,2.973500"
+              class="mesh.rb.tub wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L -9.037386,-48.206005"
+              class="mesh.rb.tub wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L -28.007523,-10.071893"
+              class="mesh.rb.tub dvb" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L -2.005313,-35.426056"
+              class="mesh.rb.tub wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L 16.500677,2.153553"
+              class="mesh.rb.tub wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L -32.194557,-58.490456"
+              class="mesh.rb.tub eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L 13.601819,-13.625158"
+              class="mesh.rb.tub wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L -19.153713,-38.807034"
+              class="mesh.rb.tub tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L -32.572655,-44.712479"
+              class="mesh.rb.tub eth0.nodedb-staging.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L -29.002892,-25.498560"
+              class="mesh.rb.tub lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L -2.122819,9.965090"
+              class="mesh.rb.tub eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L -32.804699,4.503531"
+              class="mesh.rb.tub eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L -42.956463,-33.562126"
+              class="wifi.router1.algo ffbr.mur.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L -57.912796,-19.191015"
+              class="wifi.router1.algo wifi.sch24.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L 0.421837,-3.970233"
+              class="wifi.router1.algo wifi.router2.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L -14.907776,-24.997213"
+              class="wifi.router1.algo wifi.router3.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L -27.305019,33.201672"
+              class="wifi.router1.algo lan.5bone.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L 11.561994,-27.428003"
+              class="wifi.router1.algo lan.0325.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L -2.533039,-77.553268"
+              class="wifi.router1.algo wifi.rhsender.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L -42.919697,-17.119257"
+              class="wifi.router1.algo ff.r2ko.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L -17.083172,21.649641"
+              class="wifi.router1.algo lan.combinesch.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L 14.462274,23.019966"
+              class="wifi.router1.algo wifi.gitter.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L -18.414736,-62.831470"
+              class="wifi.router1.algo eth0.confine.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L -59.964031,-35.931805"
+              class="wifi.router1.algo wifi.router1.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L 26.852465,-35.657318"
+              class="wifi.router1.algo wifi.0322.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L 4.955121,-58.935738"
+              class="wifi.router1.algo wifi.0342.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L -48.270824,-51.683266"
+              class="wifi.router1.algo wifi.0346.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L 55.597378,-45.103088"
+              class="wifi.router1.algo intern-mur" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L -16.583109,2.973500"
+              class="wifi.router1.algo wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L -9.037386,-48.206005"
+              class="wifi.router1.algo wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L -28.007523,-10.071893"
+              class="wifi.router1.algo dvb" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L -2.005313,-35.426056"
+              class="wifi.router1.algo wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L 16.500677,2.153553"
+              class="wifi.router1.algo wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L -32.194557,-58.490456"
+              class="wifi.router1.algo eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L 13.601819,-13.625158"
+              class="wifi.router1.algo wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L -19.153713,-38.807034"
+              class="wifi.router1.algo tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L -32.572655,-44.712479"
+              class="wifi.router1.algo eth0.nodedb-staging.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L -29.002892,-25.498560"
+              class="wifi.router1.algo lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L -2.122819,9.965090"
+              class="wifi.router1.algo eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -0.872047,-19.586048 L -32.804699,4.503531"
+              class="wifi.router1.algo eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L -57.912796,-19.191015"
+              class="ffbr.mur.algo wifi.sch24.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L 0.421837,-3.970233"
+              class="ffbr.mur.algo wifi.router2.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L -14.907776,-24.997213"
+              class="ffbr.mur.algo wifi.router3.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L -27.305019,33.201672"
+              class="ffbr.mur.algo lan.5bone.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L 11.561994,-27.428003"
+              class="ffbr.mur.algo lan.0325.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L -2.533039,-77.553268"
+              class="ffbr.mur.algo wifi.rhsender.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L -42.919697,-17.119257"
+              class="ffbr.mur.algo ff.r2ko.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L -17.083172,21.649641"
+              class="ffbr.mur.algo lan.combinesch.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L 14.462274,23.019966"
+              class="ffbr.mur.algo wifi.gitter.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L -18.414736,-62.831470"
+              class="ffbr.mur.algo eth0.confine.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L -59.964031,-35.931805"
+              class="ffbr.mur.algo wifi.router1.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L 26.852465,-35.657318"
+              class="ffbr.mur.algo wifi.0322.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L 4.955121,-58.935738"
+              class="ffbr.mur.algo wifi.0342.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L -48.270824,-51.683266"
+              class="ffbr.mur.algo wifi.0346.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L 55.597378,-45.103088"
+              class="ffbr.mur.algo intern-mur" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L -16.583109,2.973500"
+              class="ffbr.mur.algo wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L -9.037386,-48.206005"
+              class="ffbr.mur.algo wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L -28.007523,-10.071893"
+              class="ffbr.mur.algo dvb" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L -2.005313,-35.426056"
+              class="ffbr.mur.algo wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L 16.500677,2.153553"
+              class="ffbr.mur.algo wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L -32.194557,-58.490456"
+              class="ffbr.mur.algo eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L 13.601819,-13.625158"
+              class="ffbr.mur.algo wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L -19.153713,-38.807034"
+              class="ffbr.mur.algo tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L -32.572655,-44.712479"
+              class="ffbr.mur.algo eth0.nodedb-staging.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L -29.002892,-25.498560"
+              class="ffbr.mur.algo lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L -2.122819,9.965090"
+              class="ffbr.mur.algo eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L -32.804699,4.503531"
+              class="ffbr.mur.algo eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L 0.421837,-3.970233"
+              class="wifi.sch24.tub wifi.router2.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L -14.907776,-24.997213"
+              class="wifi.sch24.tub wifi.router3.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L -27.305019,33.201672"
+              class="wifi.sch24.tub lan.5bone.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L 11.561994,-27.428003"
+              class="wifi.sch24.tub lan.0325.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L -2.533039,-77.553268"
+              class="wifi.sch24.tub wifi.rhsender.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L -42.919697,-17.119257"
+              class="wifi.sch24.tub ff.r2ko.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L -17.083172,21.649641"
+              class="wifi.sch24.tub lan.combinesch.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L 14.462274,23.019966"
+              class="wifi.sch24.tub wifi.gitter.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L -18.414736,-62.831470"
+              class="wifi.sch24.tub eth0.confine.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L -59.964031,-35.931805"
+              class="wifi.sch24.tub wifi.router1.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L 26.852465,-35.657318"
+              class="wifi.sch24.tub wifi.0322.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L 4.955121,-58.935738"
+              class="wifi.sch24.tub wifi.0342.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L -48.270824,-51.683266"
+              class="wifi.sch24.tub wifi.0346.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L 55.597378,-45.103088"
+              class="wifi.sch24.tub intern-mur" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L -16.583109,2.973500"
+              class="wifi.sch24.tub wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L -9.037386,-48.206005"
+              class="wifi.sch24.tub wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L -28.007523,-10.071893"
+              class="wifi.sch24.tub dvb" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L -2.005313,-35.426056"
+              class="wifi.sch24.tub wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L 16.500677,2.153553"
+              class="wifi.sch24.tub wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L -32.194557,-58.490456"
+              class="wifi.sch24.tub eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L 13.601819,-13.625158"
+              class="wifi.sch24.tub wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L -19.153713,-38.807034"
+              class="wifi.sch24.tub tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L -32.572655,-44.712479"
+              class="wifi.sch24.tub eth0.nodedb-staging.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L -29.002892,-25.498560"
+              class="wifi.sch24.tub lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L -2.122819,9.965090"
+              class="wifi.sch24.tub eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -57.912796,-19.191015 L -32.804699,4.503531"
+              class="wifi.sch24.tub eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L -14.907776,-24.997213"
+              class="wifi.router2.steyrer30 wifi.router3.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L -27.305019,33.201672"
+              class="wifi.router2.steyrer30 lan.5bone.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L 11.561994,-27.428003"
+              class="wifi.router2.steyrer30 lan.0325.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L -2.533039,-77.553268"
+              class="wifi.router2.steyrer30 wifi.rhsender.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L -42.919697,-17.119257"
+              class="wifi.router2.steyrer30 ff.r2ko.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L -17.083172,21.649641"
+              class="wifi.router2.steyrer30 lan.combinesch.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L 14.462274,23.019966"
+              class="wifi.router2.steyrer30 wifi.gitter.mkl"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L -18.414736,-62.831470"
+              class="wifi.router2.steyrer30 eth0.confine.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L -59.964031,-35.931805"
+              class="wifi.router2.steyrer30 wifi.router1.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L 26.852465,-35.657318"
+              class="wifi.router2.steyrer30 wifi.0322.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L 4.955121,-58.935738"
+              class="wifi.router2.steyrer30 wifi.0342.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L -48.270824,-51.683266"
+              class="wifi.router2.steyrer30 wifi.0346.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L 55.597378,-45.103088"
+              class="wifi.router2.steyrer30 intern-mur" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L -16.583109,2.973500"
+              class="wifi.router2.steyrer30 wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L -9.037386,-48.206005"
+              class="wifi.router2.steyrer30 wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L -28.007523,-10.071893"
+              class="wifi.router2.steyrer30 dvb" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L -2.005313,-35.426056"
+              class="wifi.router2.steyrer30 wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L 16.500677,2.153553"
+              class="wifi.router2.steyrer30 wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L -32.194557,-58.490456"
+              class="wifi.router2.steyrer30 eth1.gw-wien.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L 13.601819,-13.625158"
+              class="wifi.router2.steyrer30 wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L -19.153713,-38.807034"
+              class="wifi.router2.steyrer30 tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L -32.572655,-44.712479"
+              class="wifi.router2.steyrer30 eth0.nodedb-staging.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L -29.002892,-25.498560"
+              class="wifi.router2.steyrer30 lan.helsinki.mkl"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L -2.122819,9.965090"
+              class="wifi.router2.steyrer30 eth1.spider.algo"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 0.421837,-3.970233 L -32.804699,4.503531"
+              class="wifi.router2.steyrer30 eth1.debian.algo"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L -27.305019,33.201672"
+              class="wifi.router3.steyrer30 lan.5bone.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L 11.561994,-27.428003"
+              class="wifi.router3.steyrer30 lan.0325.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L -2.533039,-77.553268"
+              class="wifi.router3.steyrer30 wifi.rhsender.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L -42.919697,-17.119257"
+              class="wifi.router3.steyrer30 ff.r2ko.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L -17.083172,21.649641"
+              class="wifi.router3.steyrer30 lan.combinesch.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L 14.462274,23.019966"
+              class="wifi.router3.steyrer30 wifi.gitter.mkl"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L -18.414736,-62.831470"
+              class="wifi.router3.steyrer30 eth0.confine.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L -59.964031,-35.931805"
+              class="wifi.router3.steyrer30 wifi.router1.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L 26.852465,-35.657318"
+              class="wifi.router3.steyrer30 wifi.0322.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L 4.955121,-58.935738"
+              class="wifi.router3.steyrer30 wifi.0342.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L -48.270824,-51.683266"
+              class="wifi.router3.steyrer30 wifi.0346.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L 55.597378,-45.103088"
+              class="wifi.router3.steyrer30 intern-mur" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L -16.583109,2.973500"
+              class="wifi.router3.steyrer30 wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L -9.037386,-48.206005"
+              class="wifi.router3.steyrer30 wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L -28.007523,-10.071893"
+              class="wifi.router3.steyrer30 dvb" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L -2.005313,-35.426056"
+              class="wifi.router3.steyrer30 wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L 16.500677,2.153553"
+              class="wifi.router3.steyrer30 wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L -32.194557,-58.490456"
+              class="wifi.router3.steyrer30 eth1.gw-wien.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L 13.601819,-13.625158"
+              class="wifi.router3.steyrer30 wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L -19.153713,-38.807034"
+              class="wifi.router3.steyrer30 tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L -32.572655,-44.712479"
+              class="wifi.router3.steyrer30 eth0.nodedb-staging.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L -29.002892,-25.498560"
+              class="wifi.router3.steyrer30 lan.helsinki.mkl"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L -2.122819,9.965090"
+              class="wifi.router3.steyrer30 eth1.spider.algo"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -14.907776,-24.997213 L -32.804699,4.503531"
+              class="wifi.router3.steyrer30 eth1.debian.algo"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L 11.561994,-27.428003"
+              class="lan.5bone.steyrer30 lan.0325.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L -2.533039,-77.553268"
+              class="lan.5bone.steyrer30 wifi.rhsender.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L -42.919697,-17.119257"
+              class="lan.5bone.steyrer30 ff.r2ko.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L -17.083172,21.649641"
+              class="lan.5bone.steyrer30 lan.combinesch.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L 14.462274,23.019966"
+              class="lan.5bone.steyrer30 wifi.gitter.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L -18.414736,-62.831470"
+              class="lan.5bone.steyrer30 eth0.confine.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L -59.964031,-35.931805"
+              class="lan.5bone.steyrer30 wifi.router1.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L 26.852465,-35.657318"
+              class="lan.5bone.steyrer30 wifi.0322.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L 4.955121,-58.935738"
+              class="lan.5bone.steyrer30 wifi.0342.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L -48.270824,-51.683266"
+              class="lan.5bone.steyrer30 wifi.0346.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L 55.597378,-45.103088"
+              class="lan.5bone.steyrer30 intern-mur" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L -16.583109,2.973500"
+              class="lan.5bone.steyrer30 wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L -9.037386,-48.206005"
+              class="lan.5bone.steyrer30 wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L -28.007523,-10.071893"
+              class="lan.5bone.steyrer30 dvb" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L -2.005313,-35.426056"
+              class="lan.5bone.steyrer30 wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L 16.500677,2.153553"
+              class="lan.5bone.steyrer30 wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L -32.194557,-58.490456"
+              class="lan.5bone.steyrer30 eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L 13.601819,-13.625158"
+              class="lan.5bone.steyrer30 wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L -19.153713,-38.807034"
+              class="lan.5bone.steyrer30 tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L -32.572655,-44.712479"
+              class="lan.5bone.steyrer30 eth0.nodedb-staging.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L -29.002892,-25.498560"
+              class="lan.5bone.steyrer30 lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L -2.122819,9.965090"
+              class="lan.5bone.steyrer30 eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L -32.804699,4.503531"
+              class="lan.5bone.steyrer30 eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L -2.533039,-77.553268"
+              class="lan.0325.mkl wifi.rhsender.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L -42.919697,-17.119257"
+              class="lan.0325.mkl ff.r2ko.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L -17.083172,21.649641"
+              class="lan.0325.mkl lan.combinesch.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L 14.462274,23.019966"
+              class="lan.0325.mkl wifi.gitter.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L -18.414736,-62.831470"
+              class="lan.0325.mkl eth0.confine.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L -59.964031,-35.931805"
+              class="lan.0325.mkl wifi.router1.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L 26.852465,-35.657318"
+              class="lan.0325.mkl wifi.0322.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L 4.955121,-58.935738"
+              class="lan.0325.mkl wifi.0342.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L -48.270824,-51.683266"
+              class="lan.0325.mkl wifi.0346.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L 55.597378,-45.103088"
+              class="lan.0325.mkl intern-mur" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L -16.583109,2.973500"
+              class="lan.0325.mkl wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L -9.037386,-48.206005"
+              class="lan.0325.mkl wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L -28.007523,-10.071893"
+              class="lan.0325.mkl dvb" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L -2.005313,-35.426056"
+              class="lan.0325.mkl wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L 16.500677,2.153553"
+              class="lan.0325.mkl wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L -32.194557,-58.490456"
+              class="lan.0325.mkl eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L 13.601819,-13.625158"
+              class="lan.0325.mkl wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L -19.153713,-38.807034"
+              class="lan.0325.mkl tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L -32.572655,-44.712479"
+              class="lan.0325.mkl eth0.nodedb-staging.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L -29.002892,-25.498560"
+              class="lan.0325.mkl lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L -2.122819,9.965090"
+              class="lan.0325.mkl eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.561994,-27.428003 L -32.804699,4.503531"
+              class="lan.0325.mkl eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.533039,-77.553268 L -42.919697,-17.119257"
+              class="wifi.rhsender.tub ff.r2ko.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.533039,-77.553268 L -17.083172,21.649641"
+              class="wifi.rhsender.tub lan.combinesch.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.533039,-77.553268 L 14.462274,23.019966"
+              class="wifi.rhsender.tub wifi.gitter.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.533039,-77.553268 L -18.414736,-62.831470"
+              class="wifi.rhsender.tub eth0.confine.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.533039,-77.553268 L -59.964031,-35.931805"
+              class="wifi.rhsender.tub wifi.router1.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.533039,-77.553268 L 26.852465,-35.657318"
+              class="wifi.rhsender.tub wifi.0322.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.533039,-77.553268 L 4.955121,-58.935738"
+              class="wifi.rhsender.tub wifi.0342.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.533039,-77.553268 L -48.270824,-51.683266"
+              class="wifi.rhsender.tub wifi.0346.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.533039,-77.553268 L 55.597378,-45.103088"
+              class="wifi.rhsender.tub intern-mur" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.533039,-77.553268 L -16.583109,2.973500"
+              class="wifi.rhsender.tub wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.533039,-77.553268 L -9.037386,-48.206005"
+              class="wifi.rhsender.tub wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.533039,-77.553268 L -28.007523,-10.071893"
+              class="wifi.rhsender.tub dvb" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.533039,-77.553268 L -2.005313,-35.426056"
+              class="wifi.rhsender.tub wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.533039,-77.553268 L 16.500677,2.153553"
+              class="wifi.rhsender.tub wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.533039,-77.553268 L -32.194557,-58.490456"
+              class="wifi.rhsender.tub eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.533039,-77.553268 L 13.601819,-13.625158"
+              class="wifi.rhsender.tub wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.533039,-77.553268 L -19.153713,-38.807034"
+              class="wifi.rhsender.tub tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.533039,-77.553268 L -32.572655,-44.712479"
+              class="wifi.rhsender.tub eth0.nodedb-staging.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.533039,-77.553268 L -29.002892,-25.498560"
+              class="wifi.rhsender.tub lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.533039,-77.553268 L -2.122819,9.965090"
+              class="wifi.rhsender.tub eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.533039,-77.553268 L -32.804699,4.503531"
+              class="wifi.rhsender.tub eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.919697,-17.119257 L -17.083172,21.649641"
+              class="ff.r2ko.algo lan.combinesch.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.919697,-17.119257 L 14.462274,23.019966"
+              class="ff.r2ko.algo wifi.gitter.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.919697,-17.119257 L -18.414736,-62.831470"
+              class="ff.r2ko.algo eth0.confine.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.919697,-17.119257 L -59.964031,-35.931805"
+              class="ff.r2ko.algo wifi.router1.steyrer30" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.919697,-17.119257 L 26.852465,-35.657318"
+              class="ff.r2ko.algo wifi.0322.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.919697,-17.119257 L 4.955121,-58.935738"
+              class="ff.r2ko.algo wifi.0342.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.919697,-17.119257 L -48.270824,-51.683266"
+              class="ff.r2ko.algo wifi.0346.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.919697,-17.119257 L 55.597378,-45.103088"
+              class="ff.r2ko.algo intern-mur" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.919697,-17.119257 L -16.583109,2.973500"
+              class="ff.r2ko.algo wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.919697,-17.119257 L -9.037386,-48.206005"
+              class="ff.r2ko.algo wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.919697,-17.119257 L -28.007523,-10.071893"
+              class="ff.r2ko.algo dvb" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.919697,-17.119257 L -2.005313,-35.426056"
+              class="ff.r2ko.algo wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.919697,-17.119257 L 16.500677,2.153553"
+              class="ff.r2ko.algo wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.919697,-17.119257 L -32.194557,-58.490456"
+              class="ff.r2ko.algo eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.919697,-17.119257 L 13.601819,-13.625158"
+              class="ff.r2ko.algo wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.919697,-17.119257 L -19.153713,-38.807034"
+              class="ff.r2ko.algo tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.919697,-17.119257 L -32.572655,-44.712479"
+              class="ff.r2ko.algo eth0.nodedb-staging.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.919697,-17.119257 L -29.002892,-25.498560"
+              class="ff.r2ko.algo lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.919697,-17.119257 L -2.122819,9.965090"
+              class="ff.r2ko.algo eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.919697,-17.119257 L -32.804699,4.503531"
+              class="ff.r2ko.algo eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -17.083172,21.649641 L 14.462274,23.019966"
+              class="lan.combinesch.tub wifi.gitter.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -17.083172,21.649641 L -18.414736,-62.831470"
+              class="lan.combinesch.tub eth0.confine.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -17.083172,21.649641 L -59.964031,-35.931805"
+              class="lan.combinesch.tub wifi.router1.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -17.083172,21.649641 L 26.852465,-35.657318"
+              class="lan.combinesch.tub wifi.0322.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -17.083172,21.649641 L 4.955121,-58.935738"
+              class="lan.combinesch.tub wifi.0342.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -17.083172,21.649641 L -48.270824,-51.683266"
+              class="lan.combinesch.tub wifi.0346.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -17.083172,21.649641 L 55.597378,-45.103088"
+              class="lan.combinesch.tub intern-mur" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -17.083172,21.649641 L -16.583109,2.973500"
+              class="lan.combinesch.tub wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -17.083172,21.649641 L -9.037386,-48.206005"
+              class="lan.combinesch.tub wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -17.083172,21.649641 L -28.007523,-10.071893"
+              class="lan.combinesch.tub dvb" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -17.083172,21.649641 L -2.005313,-35.426056"
+              class="lan.combinesch.tub wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -17.083172,21.649641 L 16.500677,2.153553"
+              class="lan.combinesch.tub wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -17.083172,21.649641 L -32.194557,-58.490456"
+              class="lan.combinesch.tub eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -17.083172,21.649641 L 13.601819,-13.625158"
+              class="lan.combinesch.tub wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -17.083172,21.649641 L -19.153713,-38.807034"
+              class="lan.combinesch.tub tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -17.083172,21.649641 L -32.572655,-44.712479"
+              class="lan.combinesch.tub eth0.nodedb-staging.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -17.083172,21.649641 L -29.002892,-25.498560"
+              class="lan.combinesch.tub lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -17.083172,21.649641 L -2.122819,9.965090"
+              class="lan.combinesch.tub eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -17.083172,21.649641 L -32.804699,4.503531"
+              class="lan.combinesch.tub eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 14.462274,23.019966 L -18.414736,-62.831470"
+              class="wifi.gitter.mkl eth0.confine.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 14.462274,23.019966 L -59.964031,-35.931805"
+              class="wifi.gitter.mkl wifi.router1.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 14.462274,23.019966 L 26.852465,-35.657318"
+              class="wifi.gitter.mkl wifi.0322.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 14.462274,23.019966 L 4.955121,-58.935738"
+              class="wifi.gitter.mkl wifi.0342.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 14.462274,23.019966 L -48.270824,-51.683266"
+              class="wifi.gitter.mkl wifi.0346.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 14.462274,23.019966 L 55.597378,-45.103088"
+              class="wifi.gitter.mkl intern-mur" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 14.462274,23.019966 L -16.583109,2.973500"
+              class="wifi.gitter.mkl wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 14.462274,23.019966 L -9.037386,-48.206005"
+              class="wifi.gitter.mkl wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 14.462274,23.019966 L 35.563313,62.260838"
+              class="wifi.gitter.mkl wifi.router.hoi" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 14.462274,23.019966 L -28.007523,-10.071893"
+              class="wifi.gitter.mkl dvb" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 14.462274,23.019966 L -2.005313,-35.426056"
+              class="wifi.gitter.mkl wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 14.462274,23.019966 L 16.500677,2.153553"
+              class="wifi.gitter.mkl wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 14.462274,23.019966 L -32.194557,-58.490456"
+              class="wifi.gitter.mkl eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 14.462274,23.019966 L 13.601819,-13.625158"
+              class="wifi.gitter.mkl wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 14.462274,23.019966 L -19.153713,-38.807034"
+              class="wifi.gitter.mkl tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 14.462274,23.019966 L -32.572655,-44.712479"
+              class="wifi.gitter.mkl eth0.nodedb-staging.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 14.462274,23.019966 L -29.002892,-25.498560"
+              class="wifi.gitter.mkl lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 14.462274,23.019966 L -2.122819,9.965090"
+              class="wifi.gitter.mkl eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 14.462274,23.019966 L -32.804699,4.503531"
+              class="wifi.gitter.mkl eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -18.414736,-62.831470 L -59.964031,-35.931805"
+              class="eth0.confine.tub wifi.router1.steyrer30"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -18.414736,-62.831470 L 26.852465,-35.657318"
+              class="eth0.confine.tub wifi.0322.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -18.414736,-62.831470 L 4.955121,-58.935738"
+              class="eth0.confine.tub wifi.0342.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -18.414736,-62.831470 L -48.270824,-51.683266"
+              class="eth0.confine.tub wifi.0346.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -18.414736,-62.831470 L 55.597378,-45.103088"
+              class="eth0.confine.tub intern-mur" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -18.414736,-62.831470 L -16.583109,2.973500"
+              class="eth0.confine.tub wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -18.414736,-62.831470 L -9.037386,-48.206005"
+              class="eth0.confine.tub wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -18.414736,-62.831470 L -28.007523,-10.071893"
+              class="eth0.confine.tub dvb" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -18.414736,-62.831470 L -2.005313,-35.426056"
+              class="eth0.confine.tub wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -18.414736,-62.831470 L 16.500677,2.153553"
+              class="eth0.confine.tub wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -18.414736,-62.831470 L -32.194557,-58.490456"
+              class="eth0.confine.tub eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -18.414736,-62.831470 L 13.601819,-13.625158"
+              class="eth0.confine.tub wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -18.414736,-62.831470 L -19.153713,-38.807034"
+              class="eth0.confine.tub tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -18.414736,-62.831470 L -32.572655,-44.712479"
+              class="eth0.confine.tub eth0.nodedb-staging.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -18.414736,-62.831470 L -29.002892,-25.498560"
+              class="eth0.confine.tub lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -18.414736,-62.831470 L -2.122819,9.965090"
+              class="eth0.confine.tub eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -18.414736,-62.831470 L -32.804699,4.503531"
+              class="eth0.confine.tub eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -59.964031,-35.931805 L 26.852465,-35.657318"
+              class="wifi.router1.steyrer30 wifi.0322.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -59.964031,-35.931805 L 4.955121,-58.935738"
+              class="wifi.router1.steyrer30 wifi.0342.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -59.964031,-35.931805 L -48.270824,-51.683266"
+              class="wifi.router1.steyrer30 wifi.0346.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -59.964031,-35.931805 L 55.597378,-45.103088"
+              class="wifi.router1.steyrer30 intern-mur" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -59.964031,-35.931805 L -16.583109,2.973500"
+              class="wifi.router1.steyrer30 wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -59.964031,-35.931805 L -9.037386,-48.206005"
+              class="wifi.router1.steyrer30 wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -59.964031,-35.931805 L -28.007523,-10.071893"
+              class="wifi.router1.steyrer30 dvb" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -59.964031,-35.931805 L -2.005313,-35.426056"
+              class="wifi.router1.steyrer30 wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -59.964031,-35.931805 L 16.500677,2.153553"
+              class="wifi.router1.steyrer30 wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -59.964031,-35.931805 L -32.194557,-58.490456"
+              class="wifi.router1.steyrer30 eth1.gw-wien.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -59.964031,-35.931805 L 13.601819,-13.625158"
+              class="wifi.router1.steyrer30 wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -59.964031,-35.931805 L -19.153713,-38.807034"
+              class="wifi.router1.steyrer30 tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -59.964031,-35.931805 L -32.572655,-44.712479"
+              class="wifi.router1.steyrer30 eth0.nodedb-staging.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -59.964031,-35.931805 L -29.002892,-25.498560"
+              class="wifi.router1.steyrer30 lan.helsinki.mkl"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -59.964031,-35.931805 L -2.122819,9.965090"
+              class="wifi.router1.steyrer30 eth1.spider.algo"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -59.964031,-35.931805 L -32.804699,4.503531"
+              class="wifi.router1.steyrer30 eth1.debian.algo"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 26.852465,-35.657318 L 4.955121,-58.935738"
+              class="wifi.0322.tub wifi.0342.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 26.852465,-35.657318 L -48.270824,-51.683266"
+              class="wifi.0322.tub wifi.0346.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 26.852465,-35.657318 L 55.597378,-45.103088"
+              class="wifi.0322.tub intern-mur" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 26.852465,-35.657318 L -16.583109,2.973500"
+              class="wifi.0322.tub wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 26.852465,-35.657318 L -9.037386,-48.206005"
+              class="wifi.0322.tub wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 26.852465,-35.657318 L -28.007523,-10.071893"
+              class="wifi.0322.tub dvb" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 26.852465,-35.657318 L -2.005313,-35.426056"
+              class="wifi.0322.tub wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 26.852465,-35.657318 L 16.500677,2.153553"
+              class="wifi.0322.tub wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 26.852465,-35.657318 L -32.194557,-58.490456"
+              class="wifi.0322.tub eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 26.852465,-35.657318 L 13.601819,-13.625158"
+              class="wifi.0322.tub wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 26.852465,-35.657318 L -19.153713,-38.807034"
+              class="wifi.0322.tub tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 26.852465,-35.657318 L -32.572655,-44.712479"
+              class="wifi.0322.tub eth0.nodedb-staging.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 26.852465,-35.657318 L -29.002892,-25.498560"
+              class="wifi.0322.tub lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 26.852465,-35.657318 L -2.122819,9.965090"
+              class="wifi.0322.tub eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 26.852465,-35.657318 L -32.804699,4.503531"
+              class="wifi.0322.tub eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 4.955121,-58.935738 L -48.270824,-51.683266"
+              class="wifi.0342.mkl wifi.0346.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 4.955121,-58.935738 L 55.597378,-45.103088"
+              class="wifi.0342.mkl intern-mur" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 4.955121,-58.935738 L -16.583109,2.973500"
+              class="wifi.0342.mkl wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 4.955121,-58.935738 L -9.037386,-48.206005"
+              class="wifi.0342.mkl wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 4.955121,-58.935738 L -28.007523,-10.071893"
+              class="wifi.0342.mkl dvb" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 4.955121,-58.935738 L -2.005313,-35.426056"
+              class="wifi.0342.mkl wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 4.955121,-58.935738 L 16.500677,2.153553"
+              class="wifi.0342.mkl wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 4.955121,-58.935738 L -32.194557,-58.490456"
+              class="wifi.0342.mkl eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 4.955121,-58.935738 L 13.601819,-13.625158"
+              class="wifi.0342.mkl wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 4.955121,-58.935738 L -19.153713,-38.807034"
+              class="wifi.0342.mkl tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 4.955121,-58.935738 L -32.572655,-44.712479"
+              class="wifi.0342.mkl eth0.nodedb-staging.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 4.955121,-58.935738 L -29.002892,-25.498560"
+              class="wifi.0342.mkl lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 4.955121,-58.935738 L -2.122819,9.965090"
+              class="wifi.0342.mkl eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 4.955121,-58.935738 L -32.804699,4.503531"
+              class="wifi.0342.mkl eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -48.270824,-51.683266 L 55.597378,-45.103088"
+              class="wifi.0346.mkl intern-mur" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -48.270824,-51.683266 L -16.583109,2.973500"
+              class="wifi.0346.mkl wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -48.270824,-51.683266 L -9.037386,-48.206005"
+              class="wifi.0346.mkl wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -48.270824,-51.683266 L -28.007523,-10.071893"
+              class="wifi.0346.mkl dvb" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -48.270824,-51.683266 L -2.005313,-35.426056"
+              class="wifi.0346.mkl wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -48.270824,-51.683266 L 16.500677,2.153553"
+              class="wifi.0346.mkl wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -48.270824,-51.683266 L -32.194557,-58.490456"
+              class="wifi.0346.mkl eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -48.270824,-51.683266 L 13.601819,-13.625158"
+              class="wifi.0346.mkl wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -48.270824,-51.683266 L -19.153713,-38.807034"
+              class="wifi.0346.mkl tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -48.270824,-51.683266 L -32.572655,-44.712479"
+              class="wifi.0346.mkl eth0.nodedb-staging.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -48.270824,-51.683266 L -29.002892,-25.498560"
+              class="wifi.0346.mkl lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -48.270824,-51.683266 L -2.122819,9.965090"
+              class="wifi.0346.mkl eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -48.270824,-51.683266 L -32.804699,4.503531"
+              class="wifi.0346.mkl eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 51.250034,36.333012 L 16.500677,2.153553"
+              class="wifi.router.mohrenapotheke wifi.west.mkl"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 55.597378,-45.103088 L -16.583109,2.973500"
+              class="intern-mur wifi.ost.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 55.597378,-45.103088 L -9.037386,-48.206005"
+              class="intern-mur wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 55.597378,-45.103088 L -28.007523,-10.071893"
+              class="intern-mur dvb" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 55.597378,-45.103088 L -2.005313,-35.426056"
+              class="intern-mur wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 55.597378,-45.103088 L 16.500677,2.153553"
+              class="intern-mur wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 55.597378,-45.103088 L -32.194557,-58.490456"
+              class="intern-mur eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 55.597378,-45.103088 L 13.601819,-13.625158"
+              class="intern-mur wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 55.597378,-45.103088 L -19.153713,-38.807034"
+              class="intern-mur tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 55.597378,-45.103088 L -32.572655,-44.712479"
+              class="intern-mur eth0.nodedb-staging.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 55.597378,-45.103088 L -29.002892,-25.498560"
+              class="intern-mur lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 55.597378,-45.103088 L -2.122819,9.965090"
+              class="intern-mur eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 55.597378,-45.103088 L -32.804699,4.503531"
+              class="intern-mur eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -16.583109,2.973500 L -9.037386,-48.206005"
+              class="wifi.ost.tub wifi.sued.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -16.583109,2.973500 L -28.007523,-10.071893"
+              class="wifi.ost.tub dvb" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -16.583109,2.973500 L -2.005313,-35.426056"
+              class="wifi.ost.tub wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -16.583109,2.973500 L 16.500677,2.153553"
+              class="wifi.ost.tub wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -16.583109,2.973500 L -32.194557,-58.490456"
+              class="wifi.ost.tub eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -16.583109,2.973500 L 13.601819,-13.625158"
+              class="wifi.ost.tub wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -16.583109,2.973500 L -19.153713,-38.807034"
+              class="wifi.ost.tub tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -16.583109,2.973500 L -32.572655,-44.712479"
+              class="wifi.ost.tub eth0.nodedb-staging.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -16.583109,2.973500 L -29.002892,-25.498560"
+              class="wifi.ost.tub lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -16.583109,2.973500 L -2.122819,9.965090"
+              class="wifi.ost.tub eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -16.583109,2.973500 L -32.804699,4.503531"
+              class="wifi.ost.tub eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -9.037386,-48.206005 L -28.007523,-10.071893"
+              class="wifi.sued.tub dvb" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -9.037386,-48.206005 L -2.005313,-35.426056"
+              class="wifi.sued.tub wifi.west.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -9.037386,-48.206005 L 16.500677,2.153553"
+              class="wifi.sued.tub wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -9.037386,-48.206005 L -32.194557,-58.490456"
+              class="wifi.sued.tub eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -9.037386,-48.206005 L 13.601819,-13.625158"
+              class="wifi.sued.tub wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -9.037386,-48.206005 L -19.153713,-38.807034"
+              class="wifi.sued.tub tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -9.037386,-48.206005 L -32.572655,-44.712479"
+              class="wifi.sued.tub eth0.nodedb-staging.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -9.037386,-48.206005 L -29.002892,-25.498560"
+              class="wifi.sued.tub lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -9.037386,-48.206005 L -2.122819,9.965090"
+              class="wifi.sued.tub eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -9.037386,-48.206005 L -32.804699,4.503531"
+              class="wifi.sued.tub eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -28.007523,-10.071893 L -2.005313,-35.426056"
+              class="dvb wifi.west.tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -28.007523,-10.071893 L 16.500677,2.153553"
+              class="dvb wifi.west.mkl" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -28.007523,-10.071893 L -32.194557,-58.490456"
+              class="dvb eth1.gw-wien.tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -28.007523,-10.071893 L 13.601819,-13.625158"
+              class="dvb wifi.ost.mkl" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -28.007523,-10.071893 L -19.153713,-38.807034"
+              class="dvb tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -28.007523,-10.071893 L -32.572655,-44.712479"
+              class="dvb eth0.nodedb-staging.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -28.007523,-10.071893 L -29.002892,-25.498560"
+              class="dvb lan.helsinki.mkl" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -28.007523,-10.071893 L -2.122819,9.965090"
+              class="dvb eth1.spider.algo" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -28.007523,-10.071893 L -32.804699,4.503531"
+              class="dvb eth1.debian.algo" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.005313,-35.426056 L 16.500677,2.153553"
+              class="wifi.west.tub wifi.west.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.005313,-35.426056 L -32.194557,-58.490456"
+              class="wifi.west.tub eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.005313,-35.426056 L 13.601819,-13.625158"
+              class="wifi.west.tub wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.005313,-35.426056 L -19.153713,-38.807034"
+              class="wifi.west.tub tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.005313,-35.426056 L -32.572655,-44.712479"
+              class="wifi.west.tub eth0.nodedb-staging.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.005313,-35.426056 L -29.002892,-25.498560"
+              class="wifi.west.tub lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.005313,-35.426056 L -2.122819,9.965090"
+              class="wifi.west.tub eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.005313,-35.426056 L -32.804699,4.503531"
+              class="wifi.west.tub eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 16.500677,2.153553 L -32.194557,-58.490456"
+              class="wifi.west.mkl eth1.gw-wien.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 16.500677,2.153553 L 13.601819,-13.625158"
+              class="wifi.west.mkl wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 16.500677,2.153553 L -19.153713,-38.807034"
+              class="wifi.west.mkl tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 16.500677,2.153553 L -32.572655,-44.712479"
+              class="wifi.west.mkl eth0.nodedb-staging.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 16.500677,2.153553 L -29.002892,-25.498560"
+              class="wifi.west.mkl lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 16.500677,2.153553 L 55.088520,31.878073"
+              class="wifi.west.mkl wifi.router.suedtiroler" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 16.500677,2.153553 L -2.122819,9.965090"
+              class="wifi.west.mkl eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 16.500677,2.153553 L -32.804699,4.503531"
+              class="wifi.west.mkl eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -32.194557,-58.490456 L 13.601819,-13.625158"
+              class="eth1.gw-wien.tub wifi.ost.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -32.194557,-58.490456 L -19.153713,-38.807034"
+              class="eth1.gw-wien.tub tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -32.194557,-58.490456 L -32.572655,-44.712479"
+              class="eth1.gw-wien.tub eth0.nodedb-staging.tub"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -32.194557,-58.490456 L -29.002892,-25.498560"
+              class="eth1.gw-wien.tub lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -32.194557,-58.490456 L -2.122819,9.965090"
+              class="eth1.gw-wien.tub eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -32.194557,-58.490456 L -32.804699,4.503531"
+              class="eth1.gw-wien.tub eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 13.601819,-13.625158 L -19.153713,-38.807034"
+              class="wifi.ost.mkl tub" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 13.601819,-13.625158 L -32.572655,-44.712479"
+              class="wifi.ost.mkl eth0.nodedb-staging.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 13.601819,-13.625158 L -29.002892,-25.498560"
+              class="wifi.ost.mkl lan.helsinki.mkl" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 13.601819,-13.625158 L -2.122819,9.965090"
+              class="wifi.ost.mkl eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 13.601819,-13.625158 L -32.804699,4.503531"
+              class="wifi.ost.mkl eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -19.153713,-38.807034 L -32.572655,-44.712479"
+              class="tub eth0.nodedb-staging.tub" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -19.153713,-38.807034 L -29.002892,-25.498560"
+              class="tub lan.helsinki.mkl" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -19.153713,-38.807034 L -2.122819,9.965090"
+              class="tub eth1.spider.algo" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -19.153713,-38.807034 L -32.804699,4.503531"
+              class="tub eth1.debian.algo" stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -32.572655,-44.712479 L -29.002892,-25.498560"
+              class="eth0.nodedb-staging.tub lan.helsinki.mkl"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -32.572655,-44.712479 L -2.122819,9.965090"
+              class="eth0.nodedb-staging.tub eth1.spider.algo"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -32.572655,-44.712479 L -32.804699,4.503531"
+              class="eth0.nodedb-staging.tub eth1.debian.algo"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -29.002892,-25.498560 L -2.122819,9.965090"
+              class="lan.helsinki.mkl eth1.spider.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -29.002892,-25.498560 L -32.804699,4.503531"
+              class="lan.helsinki.mkl eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.122819,9.965090 L -32.804699,4.503531"
+              class="eth1.spider.algo eth1.debian.algo" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.919697,-17.119257 L -98.777412,-11.305715"
+              class="ff.r2ko.algo 89.106.210.2/32" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -32.804699,4.503531 L -72.768723,41.727432"
+              class="eth1.debian.algo 89.106.210.43/32" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -27.305019,33.201672 L -43.420879,75.656609"
+              class="lan.5bone.steyrer30 10.12.240.80/28" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 11.148701,-44.796646 L 39.592209,-87.992622"
+              class="mesh.rb.tub 10.12.231.56/29" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -18.414736,-62.831470 L -34.925411,-112.483612"
+              class="eth0.confine.tub 193.33.151.28/32" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -18.414736,-62.831470 L -29.467728,-113.661179"
+              class="eth0.confine.tub 10.12.120.32/27" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -32.194557,-58.490456 L -60.274715,-103.238861"
+              class="eth1.gw-wien.tub 193.33.151.254/32" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -32.572655,-44.712479 L -71.228561,-86.209946"
+              class="eth0.nodedb-staging.tub 193.33.151.62/32"
+              stroke-opacity="1.0" stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 55.597378,-45.103088 L 94.183441,-55.242954"
+              class="intern-mur 89.106.210.42/32" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 55.597378,-45.103088 L 92.924774,-59.658215"
+              class="intern-mur 89.106.208.0/21" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M 55.597378,-45.103088 L 90.884003,-63.794533"
+              class="intern-mur 193.33.151.1/32" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -2.122819,9.965090 L 10.743779,59.907417"
+              class="eth1.spider.algo 89.106.210.44/32" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -42.956463,-33.562126 L -95.007782,-55.617081"
+              class="ffbr.mur.algo 89.106.210.46/32" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -47.808704,-3.380936 L -96.406616,16.290157"
+              class="eth0.nodedb.tub 193.33.151.8/32" stroke-opacity="1.0"
+              stroke="#a8a8a8"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="35.528072"
+                class="lan.spektral.mkl" cy="-11.135624" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-47.808704"
+                class="eth0.nodedb.tub" cy="-3.3809361" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-13.153833"
+                class="lan.0425.mkl" cy="-10.943025" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-45.32504"
+                class="wifi.graba68.tub" cy="17.038239" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="11.148701"
+                class="mesh.rb.tub" cy="-44.796646" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-0.8720469"
+                class="wifi.router1.algo" cy="-19.586048" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-42.956463"
+                class="ffbr.mur.algo" cy="-33.562126" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-57.912796"
+                class="wifi.sch24.tub" cy="-19.191015" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="0.42183715"
+                class="wifi.router2.steyrer30" cy="-3.9702334" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-14.907776"
+                class="wifi.router3.steyrer30" cy="-24.997213" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-27.30502"
+                class="lan.5bone.steyrer30" cy="33.20167" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="11.561994"
+                class="lan.0325.mkl" cy="-27.428003" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-2.533039"
+                class="wifi.rhsender.tub" cy="-77.55327" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-42.919697"
+                class="ff.r2ko.algo" cy="-17.119257" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-17.083172"
+                class="lan.combinesch.tub" cy="21.649641" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="14.462274"
+                class="wifi.gitter.mkl" cy="23.019966" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-18.414736"
+                class="eth0.confine.tub" cy="-62.83147" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-59.96403"
+                class="wifi.router1.steyrer30" cy="-35.931805" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="26.852465"
+                class="wifi.0322.tub" cy="-35.65732" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="4.9551206"
+                class="wifi.0342.mkl" cy="-58.935738" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-48.270824"
+                class="wifi.0346.mkl" cy="-51.683266" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="55.597378"
+                class="intern-mur" cy="-45.10309" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-16.583109"
+                class="wifi.ost.tub" cy="2.9735" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-9.037386"
+                class="wifi.sued.tub" cy="-48.206005" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-28.007523"
+                class="dvb" cy="-10.071893" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-2.0053134"
+                class="wifi.west.tub" cy="-35.426056" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="16.500677"
+                class="wifi.west.mkl" cy="2.1535535" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-32.194557"
+                class="eth1.gw-wien.tub" cy="-58.490456" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="13.601819"
+                class="wifi.ost.mkl" cy="-13.625158" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-19.153713"
+                class="tub" cy="-38.807034" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-32.572655"
+                class="eth0.nodedb-staging.tub" cy="-44.71248" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-29.002892"
+                class="lan.helsinki.mkl" cy="-25.49856" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-2.122819"
+                class="eth1.spider.algo" cy="9.96509" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-32.8047"
+                class="eth1.debian.algo" cy="4.5035315" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="35.563313"
+                class="wifi.router.hoi" cy="62.260838" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="51.250034"
+                class="wifi.router.mohrenapotheke" cy="36.33301"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="55.08852"
+                class="wifi.router.suedtiroler" cy="31.878073" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-98.77741"
+                class="89.106.210.2/32" cy="-11.305715" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-72.76872"
+                class="89.106.210.43/32" cy="41.727432" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-43.42088"
+                class="10.12.240.80/28" cy="75.65661" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="39.59221"
+                class="10.12.231.56/29" cy="-87.99262" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-34.92541"
+                class="193.33.151.28/32" cy="-112.48361" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-29.467728"
+                class="10.12.120.32/27" cy="-113.66118" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-60.274715"
+                class="193.33.151.254/32" cy="-103.23886" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-71.22856"
+                class="193.33.151.62/32" cy="-86.209946" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="94.18344"
+                class="89.106.210.42/32" cy="-55.242954" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="92.924774"
+                class="89.106.208.0/21" cy="-59.658215" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="90.884"
+                class="193.33.151.1/32" cy="-63.794533" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="10.743779"
+                class="89.106.210.44/32" cy="59.907417" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-95.00778"
+                class="89.106.210.46/32" cy="-55.61708" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cb38ff" r="5.0" cx="-96.40662"
+                class="193.33.151.8/32" cy="16.290157" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+</svg>
