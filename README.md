@@ -49,7 +49,7 @@ To help researchers represent community networks on GENI, we wrote a Python scri
 
 Since the total topology includes hundreds of nodes, and it is more useful (and practical) to study small parts of it at a time, we then partition the graph into various subgraphs, separated by color in the image below. The partitioning process exploits the modularity that is characteristic of these networks: networks with high modularity have modules with dense connections between the nodes and sparse connections between nodes in different modules. So each subgraph includes nodes that are closely connected to one another, but not closely connected to nodes in other subgraphs, making them ideal to study in isolation.
 
-![Colored CN Graph](/Color-Graph.svg)
+![Colored CN Graph](https://raw.githubusercontent.com/amayamunoz/Community-Networks/master/Color-Graph.png)
 
 This graph shows the topology split into communities with different colors for each community.
 
