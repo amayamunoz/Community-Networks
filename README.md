@@ -36,6 +36,22 @@ Data Source:
 
 With this type of networks prospective advantages, and as an attempt to ameliorate the neglect for these users, we are proposing to create a network topology for GENI that represents a community network, based off of data from active CNs, specifically Funk Feuer Graz in Austria, a fairly large community network with hundreds of nodes. In doing this, progressive researchers can use our design to better understand community networks, and test their products on it so they can create applications that work more efficiently on these networks, or specifically for them. This way, people without access to ISPs or ability to pay their high prices, or even those who just want more of a choice, will receive better quality, and can be somewhat alleviated from their subpar speeds. To make applications the best for these users, it may seem like the most accurate thing to do would be to test them directly on the CNs, but this is not a controlled environment and is not ideal for testing applications to be deployed on them. Our proposed best thing to do is to create a topology that is accurately representative of CNs, giving us presumably the same results as if we had actually tested on a community network, but in a controlled environment, allowing researchers to test applications for them in any way they want, however many times they want, before actually deploying them. Hopefully, this can help to make these networks more efficient for the users, and further the growth of them.
 
+To do this, I first downloaded a dot file for a graph of a community network topology from FFGraz. We were able to read in the dot file using pythons networkx module. Using the file, we wrote a code that generated a graph of the topology. We then partitioned the graph into various subgraphs, separated by color. We did this because we don't really need the whole topology with hundreds of nodes, we could just use a sample from it. As well, the GENI testbed would most likely be unable to reserve enough resources for the whole topology, making researchers unable to test applications and actually do what we set out to do.
+
+![Colored CN Graph](/Color-Graph.svg)
+
+This graph shows the topology split into communities with different colors for each community.
+
+Data Source:
+
+Within the code, we were then able to select a community (subgraph) and isolate it from the rest of the topology.
+
+![Subgraph selected for this example](/subgraph-3.svg)
+
+Subgraph 3 from the topology
+
+Data Source: 
+
 
 
 
