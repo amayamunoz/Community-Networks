@@ -42,8 +42,7 @@ However, creators of applications and other Internet related products don't real
 
 To make applications for community network users, it may seem like the most accurate thing to do would be to test them directly on the CNs, but this is not a controlled environment and is not ideal for testing applications or alternative networking protocols to be deployed on them. Instead, the goal of our research is to make it easy for researchers to study the performance of community networks in a controlled environment, and use this environment to make Internet use better for them. **TODO: write about GENI.** 
 
-
-
+GENI is a researching testbed where researchers can create network topologies and then actually log into them to test and download applications. There are hundreds of nodes or virtual machines across the country at many universities that GENI researchers can gain access to from their computer.
 
 To help researchers represent community networks on GENI, we wrote a Python script that generates a "resource specification" (RSpec) file that researchers can use to set up a network on GENI for testing. It gets data from an active community network, specifically Funk Feuer Graz in Austria, a fairly large community network with hundreds of nodes. As the data source, we downloaded a file that represents the nodes and the links of the FFGraz community network topology as a graph. 
 
