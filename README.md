@@ -40,10 +40,14 @@ Some characteristics of community networks have a negative impact on user experi
 
 However, creators of applications and other Internet related products don't really cater their products to consumers running them on community networks, which ultimately means decreased quality for those using the network (even though they already have slower speeds). Furthermore, it would be useful to create products specifically for community network users. For instance, they would benefit from peer-to-peer video streaming where each node can stream a video content to another node, rather than each node trying to get a video individually from the internet.
 
+To make applications for community network users, it may seem like the most accurate thing to do would be to test them directly on the CNs, but this is not a controlled environment and is not ideal for testing applications or alternative networking protocols to be deployed on them. Instead, the goal of our research is to make it easy for researchers to study the performance of community networks in a controlled environment, and use this environment to make Internet use better for them. **TODO: write about GENI.** 
 
-With this type of networks prospective advantages, and as an attempt to ameliorate the neglect for these users, we are proposing to create a network topology for GENI that represents a community network, based off of data from active CNs, specifically Funk Feuer Graz in Austria, a fairly large community network with hundreds of nodes. In doing this, progressive researchers can use our design to better understand community networks, and test their products on it so they can create applications that work more efficiently on these networks, or specifically for them. This way, people without access to ISPs or ability to pay their high prices, or even those who just want more of a choice, will receive better quality, and can be somewhat alleviated from their subpar speeds. To make applications the best for these users, it may seem like the most accurate thing to do would be to test them directly on the CNs, but this is not a controlled environment and is not ideal for testing applications to be deployed on them. Our proposed best thing to do is to create a topology that is accurately representative of CNs, giving us presumably the same results as if we had actually tested on a community network, but in a controlled environment, allowing researchers to test applications for them in any way they want, however many times they want, before actually deploying them. Hopefully, this can help to make these networks more efficient for the users, and further the growth of them.
 
-To do this, I first downloaded a dot file for a graph of a community network topology from FFGraz. We were able to read in the dot file using pythons networkx module. Using the file, we wrote a code that generated a graph of the topology. We then partitioned the graph into various subgraphs, separated by color. We did this because we don't really need the whole topology with hundreds of nodes, we could just use a sample from it. As well, the GENI testbed would most likely be unable to reserve enough resources for the whole topology, making researchers unable to test applications and actually do what we set out to do.
+
+
+To help researchers represent community networks on GENI, we wrote a Python script that generates a "resource specification" (RSpec) file that researchers can use to set up a network on GENI for testing. It gets data from an active community network, specifically Funk Feuer Graz in Austria, a fairly large community network with hundreds of nodes. As the data source, we downloaded a file that represents the nodes and the links of the FFGraz community network topology as a graph. 
+
+Since the total topology includes hundreds of nodes, and it is more useful (and practical) to study small parts of it at a time, we then partition the graph into various subgraphs, separated by color in the image below. The partitioning process exploits the modularity that is characteristic of these networks: networks with high modularity have modules with dense connections between the nodes and sparse connections between nodes in different modules. So each subgraph includes nodes that are closely connected to one another, but not closely connected to nodes in other subgraphs, making them ideal to study in isolation.
 
 ![Colored CN Graph](/Color-Graph.svg)
 
@@ -51,7 +55,7 @@ This graph shows the topology split into communities with different colors for e
 
 Data Source:
 
-Within the code, we were then able to select a community (subgraph) and isolate it from the rest of the topology.
+Next, we had to address cliques. Every node in a clique is connected to all other nodes in a clique (fully connected). In a wireless network, nodes that are all close to one another are fully connected through a single shared link. However, in the graph of the topology, it depicted these as point-to-point links, where each node had one individual link with every other node. When we represent the network on GENI, we want to represent the clique as a single shared link so that (1) traffic between one pair of nodes will affect other nodes on the link, which is more realistic, and (2) it is easier to successfully reserve the topology on GENI, since it requires fewer links overall. To solve this, our script finds all of the cliques in our subgraph and connects all of the nodes within the clique to one link.
 
 ![Subgraph selected for this example](/subgraph-3.svg)
 
@@ -59,15 +63,10 @@ Subgraph 3 from the topology
 
 Data Source: 
 
-Next, the problem we had to address were cliques, areas of fully interconnected nodes. Every node in a clique is connected to all other nodes in a clique. The issue was that in the graph of the topology, it depicted these cliques as point-to-point links, where each node had one individual link with every other node. However, in a wireless network this is not the case. What was represented by point-to-point links are in reality many interfaces on one link. This is because it is wireless, and each node is within the same network, therefore it is already given that they are connected to each other. This also helps us to get our topology reserved on GENI, since it won't be as congested. To solve this we wrote our code to use networkx to find all of the cliques in our subgraph and connect all of the nodes within the clique to one link, rather than creating several links.
-
-Another problem we encountered was what to do when adding new nodes or when nodes fail, since it is a mesh network where everyone is connected to one another. To account for this, we added a routing protocol called Babel to all of our nodes. If one node or interface is down, Babel will reroute paths so that each node can still reach all others. If a new node is added or a new interface is put up, Babel will find the best way to incorporate that node into the network so it can reach all other nodes.  
-
-Doing this, we were able to generate an accurate and stable GENI topology of the subgraph.
+Doing this, we were able to generate an accurate GENI topology of the subgraph.
 
 ![GENI Community Network Topology](/geni-portal-full.svg)
 
 This image shows how the topology of subgraph 3 looks on GENI
 
-Data Source: 
-
+As future work, we would like to use other sources of data on community networks to make our GENI links emulate realistic network conditions, such as packet loss, link capacity, and latency, using <code>netem</code>.
