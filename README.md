@@ -56,3 +56,11 @@ Next, the problem we had to address were cliques, areas of fully interconnected 
 
 Another problem we encountered was what to do when adding new nodes or when nodes fail, since it is a mesh network where everyone is connected to one another. To account for this, we added a routing protocol called Babel to all of our nodes. If one node or interface is down, Babel will reroute paths so that each node can still reach all others. If a new node is added or a new interface is put up, Babel will find the best way to incorporate that node into the network so it can reach all other nodes.  
 
+Doing this, we were able to generate an accurate and stable GENI topology of the subgraph.
+
+![GENI Community Network Topology](/geni-portal-full.svg)
+
+This image shows how the topology of subgraph 3 looks on GENI
+
+Data Source: 
+
