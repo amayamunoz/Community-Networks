@@ -69,3 +69,30 @@ Doing this, we were able to generate an accurate GENI topology of the subgraph.
 This image shows how the topology of subgraph 3 looks on GENI
 
 As future work, we would like to use other sources of data on community networks to make our GENI links emulate realistic network conditions, such as packet loss, link capacity, and latency, using <code>netem</code>.
+
+# Run my experiment
+
+There are many different python libraries you will need to reproduce this experiment. For example, community, matplotlib, seaborn, pydotplus, and networkx. To make this easier, you can reserve a single VM on GENI and log onto it and use these commands.
+
+    sudo apt-get install python-pip
+    sudo pip install networkx
+    sudo apt-get install pkg-config
+    sudo apt-get install libpng-dev
+    sudo apt-get install libfreetype6-dev
+    sudo apt-get install libjpeg8-dev 
+    sudo apt-get install python-dev
+    sudo pip install matplotlib
+    sudo apt-get install gfortran libopenblas-dev liblapack-dev
+    sudo apt-get install python-numpy python-scipy
+    sudo pip install seaborn
+    sudo apt-get install mercurial
+    hg clone https://bitbucket.org/taynaud/python-louvain
+    cd python-louvain
+    sudo python setup.py install
+    sudo pip install pydotplus
+
+Then you will want to download the topology file to the node. To do this you can use this code:
+
+    wget http://stats.ffgraz.net/topo/topology.dot.plain
+
+If you want to use another topology file, you can just input an alternate link there. 
