@@ -95,4 +95,11 @@ Then you will want to download the topology file to the node. To do this you can
 
     wget http://stats.ffgraz.net/topo/topology.dot.plain
 
-If you want to use another topology file, you can just input an alternate link there. 
+If you want to use another topology file, you can just input an alternate file link there. 
+
+Next, you will want to clone this repository, then go into the repository. To do this, you can use 
+
+    git clone https://github.com/amayamunoz/Community-Networks.git myclone
+    cd myclone
+    
+Once you're there, you should have the file "topology.py"
