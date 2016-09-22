@@ -1,6 +1,6 @@
 # Community-Networks: A GENI network topology representing community networks
 
-Availability of computers and Internet has essentially become a universal right, yet still Internet remains inaccessible in some rural and low-income parts of the world. Commercial Internet Service Providers are essentially the only form of high-speed internet access people have, limiting the consumers' choices and setting inescapable high prices. These providers can even prevent people from getting Internet by refusing to extend network lines to certain areas, such as rural territories, as there is not much demand and they will not make significant profit. 
+Availability of computers and Internet has essentially become a universal right, yet still Internet remains inaccessible in some rural and low-income parts of the world. Commercial Internet Service Providers are essentially the only form of high-speed internet access people have, limiting the consumers' choices and setting inescapable high prices [1]. These providers can even prevent people from getting Internet by refusing to extend network lines to certain areas, such as rural territories, as there is not much demand and they will not make significant profit. 
 
 ![Internet Use by Income](https://github.com/amayamunoz/Community-Networks/blob/master/internet_use.png)
 
@@ -96,3 +96,6 @@ Once you're there, you should have the file "topology.py". You can run this pyth
 You can then upload the Rspec to GENI and reserve the resources, and you have your own community network topology!
 
 As future work, we would like to use other sources of data on community networks to make our GENI links emulate realistic network conditions, such as packet loss, link capacity, and latency, using <code>netem</code>. 
+
+## Refs
+[1] Urban wireless community networks: challenges and solutions for smart city communications, [http://dl.acm.org/citation.cfm?id=2633669](http://dl.acm.org/citation.cfm?id=2633669)
