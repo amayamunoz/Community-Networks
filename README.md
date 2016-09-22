@@ -97,11 +97,11 @@ You can then upload the Rspec to GENI and reserve the resources, and you have yo
 As future work, we would like to use other sources of data on community networks to make our GENI links emulate realistic network conditions, such as packet loss, link capacity, and latency, using <code>netem</code>. 
 
 ## Refs
-[1] Urban wireless community networks: challenges and solutions for smart city communications (2014), [http://dl.acm.org/citation.cfm?id=2633669](http://dl.acm.org/citation.cfm?id=2633669)
-[2] Wireless Commons against the digital divide (2010), [http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5514608](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5514608)
-[3] It's Time to Take Mesh Networks Seriously, [http://www.wired.com/2014/01/its-time-to-take-mesh-networks-seriously-and-not-just-for-the-reasons-you-think/](http://www.wired.com/2014/01/its-time-to-take-mesh-networks-seriously-and-not-just-for-the-reasons-you-think/)
-[4] Red Hook’s Cutting-Edge Wireless Network, [http://www.nytimes.com/2014/08/24/nyregion/red-hooks-cutting-edge-wireless-network.html?_r=0](http://www.nytimes.com/2014/08/24/nyregion/red-hooks-cutting-edge-wireless-network.html?_r=0)
-[5] A case for research with and on community networks (2013), [http://dl.acm.org/citation.cfm?id=2500108](http://dl.acm.org/citation.cfm?id=2500108)
-[6] Community-lab: Architecture of a community networking testbed for the future internet (2012), [http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6379141](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6379141)
-[7] Building Communities of Commons in Greece, [https://www.youtube.com/watch?v=eA4u03iKmRA](https://www.youtube.com/watch?v=eA4u03iKmRA)
-[8] Funk Feuer Graz Statistics [http://stats.ffgraz.net/](http://stats.ffgraz.net/)
+* [1] Urban wireless community networks: challenges and solutions for smart city communications (2014), [http://dl.acm.org/citation.cfm?id=2633669](http://dl.acm.org/citation.cfm?id=2633669)
+* [2] Wireless Commons against the digital divide (2010), [http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5514608](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5514608)
+* [3] It's Time to Take Mesh Networks Seriously, [http://www.wired.com/2014/01/its-time-to-take-mesh-networks-seriously-and-not-just-for-the-reasons-you-think/](http://www.wired.com/2014/01/its-time-to-take-mesh-networks-seriously-and-not-just-for-the-reasons-you-think/)
+* [4] Red Hook’s Cutting-Edge Wireless Network, [http://www.nytimes.com/2014/08/24/nyregion/red-hooks-cutting-edge-wireless-network.html?_r=0](http://www.nytimes.com/2014/08/24/nyregion/red-hooks-cutting-edge-wireless-network.html?_r=0)
+* [5] A case for research with and on community networks (2013), [http://dl.acm.org/citation.cfm?id=2500108](http://dl.acm.org/citation.cfm?id=2500108)
+* [6] Community-lab: Architecture of a community networking testbed for the future internet (2012), [http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6379141](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6379141)
+* [7] Building Communities of Commons in Greece, [https://www.youtube.com/watch?v=eA4u03iKmRA](https://www.youtube.com/watch?v=eA4u03iKmRA)
+* [8] Funk Feuer Graz Statistics [http://stats.ffgraz.net/](http://stats.ffgraz.net/)
