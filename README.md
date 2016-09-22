@@ -10,7 +10,7 @@ Data Source:
 
 Community networks have been presented as a potential solution to the problem of Internet availability. Community networks are an alternate way for underserved areas to obtain Internet connection. They are run by the users, for the users, without the need for every user to have Internet access from an ISP. Each individual person's wireless router can become a node, in which they can obtain Internet access as well as share it with others. 
 
-![Map of Community Networks around the World] (/cnmap.svg)
+![Map of Community Networks around the World] (https://github.com/amayamunoz/Community-Networks/blob/master/cnmap2.png)
 
 This map of the world depicts some of the more well-known community networks, to show their world-wide spread. There are many other smaller networks not shown.
 
@@ -18,13 +18,13 @@ A popular example of one is Guifi in Spain. They are a successful community netw
 
 In my project, I create a tool to help researchers experiment on community networks. This is important because since community networks are user-run and are built from the bottom up, they have different characteristics from the conventional networks provided by ISPs. 
 
-![A Conventional Network](/new_view.svg)
+![A Conventional Network](https://github.com/amayamunoz/Community-Networks/blob/master/connetwork.png)
 
 This drawing shows the heirarchy within the ISP or conventional model. Connection goes through many levels before it is passed to the public. 
 
 Data Source:
 
-![Community Networks](/cluster_sm.svg)
+![Community Networks](https://github.com/amayamunoz/Community-Networks/blob/master/commnetwork.png)
 
 This drawing shows how, in community networks, there is little hierarchy and all of the nodes are interconnected with each other.
 
@@ -56,7 +56,7 @@ Data Source:
 
 Next, we had to address cliques. Every node in a clique is connected to all other nodes in a clique (fully connected). In a wireless network, nodes that are all close to one another are fully connected through a single shared link. However, in the graph of the topology, it depicted these as point-to-point links, where each node had one individual link with every other node. When we represent the network on GENI, we want to represent the clique as a single shared link so that (1) traffic between one pair of nodes will affect other nodes on the link, which is more realistic, and (2) it is easier to successfully reserve the topology on GENI, since it requires fewer links overall. To solve this, our script finds all of the cliques in our subgraph and connects all of the nodes within the clique to one link.
 
-![Subgraph selected for this example](/subgraph-3.svg)
+![Subgraph selected for this example](https://github.com/amayamunoz/Community-Networks/blob/master/subgraph3.png)
 
 Subgraph 3 from the topology
 
@@ -64,7 +64,7 @@ Data Source:
 
 Doing this, we were able to generate an accurate GENI topology of the subgraph.
 
-![GENI Community Network Topology](/geni-portal-full.svg)
+![GENI Community Network Topology](https://github.com/amayamunoz/Community-Networks/blob/master/geniportal.png)
 
 This image shows how the topology of subgraph 3 looks on GENI
 
