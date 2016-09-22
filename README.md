@@ -4,9 +4,10 @@ Availability of computers and Internet has essentially become a universal right,
 
 ![Internet Use by Income](https://github.com/amayamunoz/Community-Networks/blob/master/internet_use.png)
 
+_Data Source: July 2015 Internet and Tech Use Supplement to US Census_
+
 This image shows the computer and Internet usage of households in the United States, split into 4 different income brackets. There is a huge disparity between computer/Internet usage for households with higher incomes and households with lower incomes. Households with higher incomes (>75k) have nearly 100% Internet usage or access, while households with lower incomes (<25k) have around 50%, showing that those with lower incomes often cannot obtain Internet access.
 
-Data Source: 
 
 Community networks have been presented as a potential solution to the problem of Internet availability [2]. Community networks are an alternate way for underserved areas to obtain Internet connection. They are run by the users, for the users, without the need for every user to have Internet access from an ISP. Each individual person's wireless router can become a node, in which they can obtain Internet access as well as share it with others. 
 
