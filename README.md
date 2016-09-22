@@ -68,8 +68,6 @@ Doing this, we were able to generate an accurate GENI topology of the subgraph.
 
 This image shows how the topology of subgraph 3 looks on GENI
 
-As future work, we would like to use other sources of data on community networks to make our GENI links emulate realistic network conditions, such as packet loss, link capacity, and latency, using <code>netem</code>.
-
 # Run my experiment
 
 There are many different python libraries you will need to reproduce this experiment. For example, community, matplotlib, seaborn, pydotplus, and networkx. To make this easier, you can reserve a single VM on GENI and log onto it and use these commands.
@@ -102,4 +100,8 @@ Next, you will want to clone this repository, then go into the repository. To do
     git clone https://github.com/amayamunoz/Community-Networks.git myclone
     cd myclone
     
-Once you're there, you should have the file "topology.py"
+Once you're there, you should have the file "topology.py". You can run this python code, which will in turn produce an Rspec in an xml file called "subgraph-3.xml". If you want to change which subgraph you are using, change the integer value for the variable "subgraph". This will also change the Rspec file name and the 3 will be replaced with whichever number you chose. 
+
+You can then upload the Rspec to GENI and reserve the resources, and you have your own community network topology!
+
+As future work, we would like to use other sources of data on community networks to make our GENI links emulate realistic network conditions, such as packet loss, link capacity, and latency, using <code>netem</code>. 
