@@ -6,7 +6,7 @@ Availability of computers and Internet has essentially become a universal right,
 
 This image shows the computer and Internet usage of households in the United States, split into 4 different income brackets. There is a huge disparity between computer/Internet usage for households with higher incomes and households with lower incomes. Households with higher incomes (>75k) have nearly 100% Internet usage or access, while households with lower incomes (<25k) have around 50%, showing that those with lower incomes often cannot obtain Internet access.
 
-Data Source:
+Data Source: 
 
 Community networks have been presented as a potential solution to the problem of Internet availability. Community networks are an alternate way for underserved areas to obtain Internet connection. They are run by the users, for the users, without the need for every user to have Internet access from an ISP. Each individual person's wireless router can become a node, in which they can obtain Internet access as well as share it with others. 
 
@@ -22,14 +22,9 @@ In my project, I create a tool to help researchers experiment on community netwo
 
 This drawing shows the heirarchy within the ISP or conventional model. Connection goes through many levels before it is passed to the public. 
 
-Data Source:
-
 ![Community Networks](https://github.com/amayamunoz/Community-Networks/blob/master/commnetwork.png)
 
 This drawing shows how, in community networks, there is little hierarchy and all of the nodes are interconnected with each other.
-
-Data Source:
-
 
 There are multiple benefits to using community networks over conventional ones. For one, they are generally relatively inexpensive to operate and free to use. Community networks increase consumer choice: in urban areas, there is a bit more freedom to make an individual choice in how you would like to obtain Internet, so you are not forced to use ISPs, and in rural areas, it may even be the only choice.  There is also an opportunity for increased security, privacy, and neutrality with community networks. Since everything is decentralized, it is more difficult for oppressive governments to exploit points in the network infrastructure to collect mass data or to censor some sources of information. With ISPs, there is a more centralized network, and they can control the mass majority of user's interaction. Similarly, conventional networks may accept payment from content providers to favor their traffic (a net neutrality violation) but community networks treat all traffic equally.
 
@@ -52,15 +47,11 @@ Since the total topology includes hundreds of nodes, and it is more useful (and 
 
 This graph shows the topology split into communities with different colors for each community.
 
-Data Source:
-
 Next, we had to address cliques. Every node in a clique is connected to all other nodes in a clique (fully connected). In a wireless network, nodes that are all close to one another are fully connected through a single shared link. However, in the graph of the topology, it depicted these as point-to-point links, where each node had one individual link with every other node. When we represent the network on GENI, we want to represent the clique as a single shared link so that (1) traffic between one pair of nodes will affect other nodes on the link, which is more realistic, and (2) it is easier to successfully reserve the topology on GENI, since it requires fewer links overall. To solve this, our script finds all of the cliques in our subgraph and connects all of the nodes within the clique to one link.
 
 ![Subgraph selected for this example](https://github.com/amayamunoz/Community-Networks/blob/master/subgraph3.png)
 
-Subgraph 3 from the topology
-
-Data Source: 
+Subgraph 3 from the topology. Cliques are within rectangles
 
 Doing this, we were able to generate an accurate GENI topology of the subgraph.
 
