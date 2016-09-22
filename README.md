@@ -1,4 +1,6 @@
-# Community-Networks: A GENI network topology representing community networks
+# Creating GENI network topologies representing community networks
+
+## Background
 
 Availability of computers and Internet has essentially become a universal right, yet still Internet remains inaccessible in some rural and low-income parts of the world. Commercial Internet Service Providers are essentially the only form of high-speed internet access people have, limiting the consumers' choices and setting inescapable high prices [1]. These providers can even prevent people from getting Internet by refusing to extend network lines to certain areas, such as rural territories, as there is not much demand and they will not make significant profit. 
 
